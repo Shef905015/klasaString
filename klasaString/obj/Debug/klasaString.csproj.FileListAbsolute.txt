@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\klasaString\klasaString\bin\Debug\klasaString.exe.config
+C:\Users\ucenik\Documents\klasaString\klasaString\bin\Debug\klasaString.exe
+C:\Users\ucenik\Documents\klasaString\klasaString\bin\Debug\klasaString.pdb
+C:\Users\ucenik\Documents\klasaString\klasaString\obj\Debug\klasaString.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\klasaString\klasaString\obj\Debug\klasaString.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\klasaString\klasaString\obj\Debug\klasaString.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\klasaString\klasaString\obj\Debug\klasaString.exe
+C:\Users\ucenik\Documents\klasaString\klasaString\obj\Debug\klasaString.pdb
